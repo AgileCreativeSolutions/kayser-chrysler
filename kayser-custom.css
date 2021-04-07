@@ -246,7 +246,6 @@ border: .14286rem solid var(--black);
 display: inline-flex;
 -moz-osx-font-smoothing: grayscale;
 position: relative;
-padding-right: 4%;
 }
 .asc-chrysler-icon::after {
 font-family: FontAwesome;
@@ -257,7 +256,10 @@ top: 50%;
 overflow: hidden;
 margin-top: -.5em;
 position: absolute;
+padding-right: .5em;
+padding-left: .5em;
 }
+
 
 
 /* Chrysler Link Accent Icon */
