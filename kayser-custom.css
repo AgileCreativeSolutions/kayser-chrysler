@@ -14,7 +14,7 @@ src: url('https://www.chrysler.com/etc.clientlibs/settings/wcm/designs/fca-brand
 
 
 /* OEM Font */
-.acs-wrapper { 
+.acs-wrapper, .acs-oem-brand { 
 font-family: "Roboto", sans-serif;
 font-weight: 400
 }
@@ -128,7 +128,7 @@ font-weight: 700;
 
 
 /* Variables */
-.acs-wrapper {
+.acs-wrapper, .acs-oem-brand {
 --accent: #880E00;
 --accent2: #b60000;
 --black: #000000; 
